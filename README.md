@@ -1,6 +1,6 @@
-## Web Scraping
+savw# Web Scraping
 
- # I want to collect web links (URL’s) from a given initial web link (URL)
+ ## I want to collect web links (URL’s) from a given initial web link (URL)
 
  
 
@@ -11,9 +11,9 @@
 
 - [x] The app needs to find all links inside this given URL;
 
-- [] The app needs to save these links found in the database (SQL or No-SQL)
+- [x] The app needs to save these links found in the database/localfile (SQL or No-SQL)
 
-- [] The app needs to list these links saved in the database.
+- [x] The app needs to list these links saved in the database/localfile.
 
 - [] After collecting all links from the initial URL. Collect from the newly found links.
 I mean, the system gets the first link saved, and start the process (get all links and keep on the database).
