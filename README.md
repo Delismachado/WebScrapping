@@ -1,4 +1,4 @@
-savw# Web Scraping
+# Web Scraping
 
  ## I want to collect web links (URL’s) from a given initial web link (URL)
 
@@ -17,13 +17,10 @@ savw# Web Scraping
 
 - [] After collecting all links from the initial URL. Collect from the newly found links.
 I mean, the system gets the first link saved, and start the process (get all links and keep on the database).
-Follow does it to the second, third and successively until the last link saved and tracked.
+Follow does it to the second, third and successively until the last link saved and tracked. 
 
- 
 
-### Extra:
-
-- [] Please, as an extra effort, include in your solution the following: 
+### Please, as an extra effort, include in your solution the following
 
 - [x] Your code needs to be integrated with git on your GitHub personal profile;
 
