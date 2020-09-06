@@ -22,7 +22,7 @@
 
             const listUrls = data.map(({
                 hrefs
-            }) => `<li> a="${hrefs}"></li>`);
+            }) => `<li> <a href="${hrefs}" /></li>`);
 
             document.querySelector('container').innerHTML = listUrls;
 
