@@ -12,6 +12,7 @@
 - [x] The app needs to save these links found in the localfile (testing)
 - [] The app needs to save these links found in the database (SQL or No-SQL)
 
+- [x] The app needs to list these links saved in the localfile
 - [] The app needs to list these links saved in the database
 
 - [] After collecting all links from the initial URL. Collect from the newly found links.
@@ -28,3 +29,6 @@ Follow does it to the second, third and successively until the last link saved a
 - [] Your code needs to be served on the IBM Cloud;
 
 - [] Your code needs to run with containers, with in IBM Cloud;
+
+
+## Developing ......
